@@ -3,11 +3,10 @@
 ### 🌠 Halaman Github Sistem Operasi Saya 🌠
 
 ________________________________________________________
-[LOG](TXT/mylog.txt) | [REPOSITORY](https://github.com/Irhaml/os212)
+[LOG](TXT/mylog.txt) | [REPOSITORY](https://github.com/MarkusLeonardWijaya/os212)
 ---
 ________________________________________________________
 
-Repository for Operating Sistem course
 
-### Table of Contents
+### Tabel Konten
 1. 
