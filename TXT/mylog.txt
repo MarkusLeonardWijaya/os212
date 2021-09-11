@@ -18,11 +18,7 @@ ZCZC W01  15 L04 GitHub Pages related
 ZCZC W01  45 L12 Assignment #02
 ZCZC W01  30 L13 Assignment #03 
 ZCZC W01  30 L15 Assignment #05
-ZCZC W01  15 
-ZCZC W01  15 
-ZCZC W01  15 
-ZCZC W01  15 
-ZCZC W01  15 
+ZCZC W01  30 L14 Assignment #04
 ZCZC W01  15 
 ZCZC W01  15 
 ZCZC W01  15 
