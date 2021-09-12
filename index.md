@@ -3,7 +3,7 @@
 ### 🌠 Halaman Github Sistem Operasi Saya 🌠
 
 ________________________________________________________
-[LOG](TXT/mylog.txt) | [REPOSITORY](https://github.com/MarkusLeonardWijaya/os212)
+[LOG](TXT/mylog.txt) | [REPOSITORY](https://github.com/MarkusLeonardWijaya/os212) | [LINKS](LINKS/) 
 
 ________________________________________________________
 
