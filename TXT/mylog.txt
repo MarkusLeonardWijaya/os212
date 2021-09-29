@@ -52,3 +52,4 @@ ZCZC W03  10 L18 Assignment #08
 ZCZC W03   5 L19 Assignment #09
 ZCZC W03  30 L08 AsDos: asking, etc.
 ZCZC W03  10 L03 GitHub related
+ZCZC W04  20 L22 Quiz Week 3
