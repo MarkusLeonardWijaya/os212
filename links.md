@@ -24,4 +24,10 @@ berisi kata kunci yang berhubungan dengan file system dan juga jenis-jenis struk
 menjelaskan cara kerja penyimpanan file di sistem operasi. Disajikan dalam bentuk video dengan visualisasi yang menarik dan mudah dipahami.
 
 3. [What Is a File System? Types of Computer File Systems and How they Work](https://www.freecodecamp.org/news/file-systems-architecture-explained/) <br>
-penjelasan lebih lengkap tentang file system beserta contoh penggunaan dalam OS linux. lengkap namun masih mudah dipahami. 
+penjelasan lebih lengkap tentang file system beserta contoh penggunaan dalam OS linux. lengkap namun masih mudah dipahami.
+
+# Week 04
+1. [C pointers](https://www.tutorialspoint.com/cprogramming/c_pointers.htm) <br>
+Menjelaskan cara menggunakan pointer di C dan cara kerjanya
+
+2. [Memory management](https://www.tutorialspoint.com/operating_system/os_memory_management.htm) <br>
