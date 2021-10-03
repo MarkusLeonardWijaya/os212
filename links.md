@@ -31,3 +31,4 @@ penjelasan lebih lengkap tentang file system beserta contoh penggunaan dalam OS 
 Menjelaskan cara menggunakan pointer di C dan cara kerjanya
 
 2. [Memory management](https://www.tutorialspoint.com/operating_system/os_memory_management.htm) <br>
+menjelaskan tentang Process Address Space, Static vs Dynamic Loading, Static vs Dynamic Linking, Swapping, Memory Allocation, Fragmentation, Paging dan lain-lain yang berhubungan dengan memory management
