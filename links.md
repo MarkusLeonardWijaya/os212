@@ -32,3 +32,10 @@ Menjelaskan cara menggunakan pointer di C dan cara kerjanya
 
 2. [Memory management](https://www.tutorialspoint.com/operating_system/os_memory_management.htm) <br>
 menjelaskan tentang Process Address Space, Static vs Dynamic Loading, Static vs Dynamic Linking, Swapping, Memory Allocation, Fragmentation, Paging dan lain-lain yang berhubungan dengan memory management
+
+# Week 05
+1. [Virtual Memory in OS](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) <br>
+Menjelaskan konsep virtual memory dan hubungan antara virtual memory dan physical memory.
+
+2. [Paging](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm) <br>
+Menjelaskan macam-macam paging yang umum digunakan dalam implementasi virtual memory.
