@@ -39,3 +39,10 @@ Menjelaskan konsep virtual memory dan hubungan antara virtual memory dan physica
 
 2. [Paging](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm) <br>
 Menjelaskan macam-macam paging yang umum digunakan dalam implementasi virtual memory.
+
+# Week 06
+1. [Fork](https://www.geeksforgeeks.org/fork-system-call/) <br>
+Menjelaskan cara kerja fork() di C, dan diberikan contoh program yang menjalankan fungsi fork(). Cukup lengkap dan mudah dipahami.
+
+2. [OS - Processes](https://www.tutorialspoint.com/operating_system/os_processes.htm) <br>
+Menjelaskan komponen apa saja yang digunakan pada OS, process life cycle dan process control block.
