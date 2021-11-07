@@ -46,3 +46,10 @@ Menjelaskan cara kerja fork() di C, dan diberikan contoh program yang menjalanka
 
 2. [OS - Processes](https://www.tutorialspoint.com/operating_system/os_processes.htm) <br>
 Menjelaskan komponen apa saja yang digunakan pada OS, process life cycle dan process control block.
+
+# Week 07
+1. [POSIX Semaphore in C](https://www.geeksforgeeks.org/use-posix-semaphores-c/) <br>
+berisi penjelasan proses synchronization and multithreading dan juga contoh penggunaan semaphore di bahasa C.
+
+2. [Deadlocks](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/) <br>
+Menjelaskan konsep deadlock dengan cara yang menarik, memberikan contoh deadlock yang bisa terjadi di dunia nyata. Juga menjelaskan kondisi-kondisi yang bisa menyebabkan deadlock muncul.
