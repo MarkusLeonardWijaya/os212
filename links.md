@@ -53,3 +53,15 @@ berisi penjelasan proses synchronization and multithreading dan juga contoh peng
 
 2. [Deadlocks](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/) <br>
 Menjelaskan konsep deadlock dengan cara yang menarik, memberikan contoh deadlock yang bisa terjadi di dunia nyata. Juga menjelaskan kondisi-kondisi yang bisa menyebabkan deadlock muncul.
+
+# Week 08
+1. [CPU Scheduling](https://www.guru99.com/cpu-scheduling-algorithms.html#:~:text=CPU%20Scheduling%20is%20a%20process,the%20ready%20queue%20for%20execution.) <br>
+Berisi penjelasan tentang algoritma-algoritma yang sering digunakan pada CPU scheduling. Juga memberikan karakteristik setiap algoritma dan summary di akhir.
+
+2. [Scheduling](http://www2.cs.uregina.ca/~hamilton/courses/330/notes/scheduling/scheduling.html#:~:text=CPU%20burst%3A%20the%20amount%20of,%2FO%20bound%20(i.e.%20vi)) <br>
+Berisi contoh penerapan algoritma scheduling seperti First-Come, First-Served (FCFS), Round Robin (RR), Shortest-Job-First (SJF) dan lain-lain sehingga terlihat perbedaan antar tiap algoritma.
+
+
+3. [LFS - Cumpiling a Cross Toolchain](https://www.youtube.com/watch?v=6Mw4l0khpCU) <br>
+Tutorial compiling cross toolchain dalam rangka LFS. Dijelaskan step by step detail sambil mempraktekannya, cocok ditonton sembari mengerjakan assignment.
+
