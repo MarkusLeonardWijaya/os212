@@ -65,3 +65,12 @@ Berisi contoh penerapan algoritma scheduling seperti First-Come, First-Served (F
 3. [LFS - Cumpiling a Cross Toolchain](https://www.youtube.com/watch?v=6Mw4l0khpCU) <br>
 Tutorial compiling cross toolchain dalam rangka LFS. Dijelaskan step by step detail sambil mempraktekannya, cocok ditonton sembari mengerjakan assignment.
 
+# Week 09
+1. [http://www.cs.iit.edu/~cs561/cs450/disksched/disksched.html](Disk Scheduling)<br>
+Algoritma yang digunakan dalam disk scheduling beserta contoh-contohnya
+
+2. [https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/10_MassStorage.html](Mass-Storage Structure) <br>
+Overview of Mass-Storage Structure, Disk Structure, Disk Attachment, Disk Scheduling, Disk Management and anything about mass storage
+
+3. [https://www.youtube.com/playlist?list=PLyc5xVO2uDsDK5_zewRXYOZA0cyjwcboE](to assist lfs chapter 7)<br>
+ikuti tutorial dalam bentuk video untuk mengerjakan lfs chapter 7 dan seterusnya
