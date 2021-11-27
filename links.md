@@ -74,3 +74,14 @@ Overview of Mass-Storage Structure, Disk Structure, Disk Attachment, Disk Schedu
 
 3. [to assist lfs chapter 7](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDK5_zewRXYOZA0cyjwcboE) <br>
 ikuti tutorial dalam bentuk video untuk mengerjakan lfs chapter 7 dan seterusnya
+
+# Week 10
+1. [I/O Systems](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/13_IOSystems.html) <br>
+Management of I/O devices is a very important part of the operating system - so important and so varied that entire I/O subsystems are devoted to its operation.
+
+2. [I/O Structure](https://www.youtube.com/watch?v=F18RiREDkwE) <br>
+Topics Discussed: Basics of OS, I/O Structure, Device Controllers, Device Drivers, Working of I/O operation, Direct Memory Access (DMA).
+
+3. [I/O Hardware](https://www.tutorialspoint.com/operating_system/os_io_hardware.htm)
+An I/O system is required to take an application I/O request and send it to the physical device, then take whatever response comes back from the device and send it to the application.
+
